@@ -18,3 +18,10 @@ markdown: kramdown
 sass:
     sass_dir: _sass
     style: :compressed
+collections: 
+  social_links: 
+    facebook: https://www.facebook.com/daehyun.park.9041
+    linkedin: https://kr.linkedin.com/in/daehyunp
+    github: https://github.com/blunut
+    google_plus: https://plus.google.com/u/0/104968538208942334011/about
+    twitter: https://twitter.com/blunut12
