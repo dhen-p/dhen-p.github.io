@@ -206,7 +206,7 @@ iframe {
     }
 
     .project-image {
-
+        @include box-shadow(0px 0px 1px $grey);
       &:hover {
         @include opacity(0.8);
       }
