@@ -12,24 +12,7 @@ github_username:  dhen-p
 facebook_username: Dae hyun Park
 timezone : Asia/Seoul
 encoding : utf-8
-# collections:
-# - my_collection
-collections:
-  my_collection:
-    foo: bar
-# collections:
-#   - social:
-#     facebook_url: "http://www.facebook.com/daehyun.park.9041"
-#     linkedin_url: "http://kr.linkedin.com/in/daehyunp"
-#     github_url: "http://github.com/blunut"
-#     google_plus_url: "http://plus.google.com/u/0/104968538208942334011/about"
-#     twitter_url: "http://twitter.com/blunut12"
-defaults:
-  - scope:
-      path: ""
-      type: my_collection
-    values:
-      layout: default
+
 # Build settings
 markdown: kramdown
 sass:
