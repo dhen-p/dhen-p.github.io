@@ -1,0 +1,18 @@
+<!-- ******HEADER****** --> 
+<header class="header">
+  <div class="container">                       
+    <img class="profile-image img-responsive pull-left" src="assets/images/image_profile.png" alt="{{site.author}}" />
+    <div class="profile-content pull-left">
+      <h1 class="name">{{site.author}}</h1>
+      <h2 class="desc">App Developer</h2>
+      {% assign social = site.data.info[0]%}
+      <ul class="social list-inline">
+        <li><a href="{{ social.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="{{ social.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="{{ social.github }}" target="_blank"><i class="fa fa-github-alt"></i></a></li>
+        <li class="last-item"><a href="{{ social.google_plus }}" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+      </ul> 
+    </div><!--//profile-->
+    <a class="btn btn-cta-primary pull-right" href="mailto:{{site.email}}"><i class="fa fa-paper-plane"></i> Contact Me</a>              
+  </div><!--//container-->
+</header><!--//header-->
