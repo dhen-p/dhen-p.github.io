@@ -1,5 +1,5 @@
 # Site settings
-title: DH's Profile
+title: dhen-p's blog
 author: Daehyun Park
 email: dhp0102@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -18,7 +18,7 @@ collections:
   my_collection:
     foo: bar
 # collections:
-#   - social: 
+#   - social:
 #     facebook_url: "http://www.facebook.com/daehyun.park.9041"
 #     linkedin_url: "http://kr.linkedin.com/in/daehyunp"
 #     github_url: "http://github.com/blunut"
