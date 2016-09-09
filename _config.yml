@@ -1,15 +1,15 @@
 # Site settings
-title: dhen-p's blog
-name: dhen-p's blog
+title: dhparkz blog
+name: dhparkz blog
 description: > # this means to ignore newlines until "author"
   Blogging about stuffs
   and development
 
 email: dhp0102@gmail.com
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 domain_name: 'http://dhen-p.github.io'
-github_username:  dhen-p
+github_username:  dhparkz
 facebook_username: Dae hyun Park
 timezone : Asia/Seoul
 encoding : utf-8
@@ -27,8 +27,8 @@ sass:
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "http://dhen-p.github.io" # the base hostname & protocol for your site
+url: "http://dhparkz.github.io" # the base hostname & protocol for your site
 author: Daehyun Park
 author_description: >
   이것저것 공부중인 학생개발자 입니다.
-  블로그는 처음이네요. https://dhen-p.github.io/about
+  블로그는 처음이네요. https://dhparkz.github.io/about
