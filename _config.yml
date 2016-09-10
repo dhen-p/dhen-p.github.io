@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "author"
 email: dhp0102@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-domain_name: 'http://dhen-p.github.io'
+domain_name: 'http://dhparkz.github.io'
 github_username:  dhparkz
 facebook_username: Dae hyun Park
 timezone : Asia/Seoul
