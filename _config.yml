@@ -30,5 +30,4 @@ gems: [jekyll-paginate]
 url: "http://dhparkz.github.io" # the base hostname & protocol for your site
 author: Daehyun Park
 author_description: >
-  이것저것 공부중인 학생개발자 입니다.
-  블로그는 처음이네요. https://dhparkz.github.io/about
+  https://dhparkz.github.io/about
